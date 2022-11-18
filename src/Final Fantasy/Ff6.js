@@ -13,6 +13,7 @@ function Ff6() {
         <div><Ff6img></Ff6img></div>
         <div className = "container">
         <div><Ff6descrizione></Ff6descrizione></div>
+        <hr></hr>
         <div className="like"><Ff6like></Ff6like></div>
         </div>
       </div>

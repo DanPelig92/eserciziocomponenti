@@ -69,5 +69,10 @@
 
 .like {
     text-align: right;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
+}
+
+.likeButton {
+  width: 25px;
+  height: 25px;
 }

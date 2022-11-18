@@ -12,6 +12,7 @@ function Ff4(){
     <div><Ff4img></Ff4img></div>
     <div className = "container">
     <div><Ff4descrizione></Ff4descrizione></div>
+    <hr></hr>
     <div className="like"><Ff4like></Ff4like></div>
     </div>
   </div>)

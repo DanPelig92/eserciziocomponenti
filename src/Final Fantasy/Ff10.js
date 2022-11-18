@@ -13,6 +13,7 @@ function Ff10() {
         <div><Ff10img></Ff10img></div>
         <div className = "container">
         <div><Ff10descrizione></Ff10descrizione></div>
+        <hr></hr>
         <div className="like"><Ff10like></Ff10like></div>
         </div>
       </div>

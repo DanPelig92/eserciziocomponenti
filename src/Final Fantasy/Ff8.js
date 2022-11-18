@@ -13,6 +13,7 @@ function Ff8() {
         <div><Ff8img></Ff8img></div>
         <div className = "container">
         <div><Ff8descrizione></Ff8descrizione></div>
+        <hr></hr>
         <div className="like"><Ff8like></Ff8like></div>
         </div>
       </div>
