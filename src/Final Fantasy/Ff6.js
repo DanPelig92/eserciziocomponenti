@@ -6,7 +6,7 @@ import Ff6like from "./Ff6like";
 
 function Ff6() {
     return (
-        <div className = "card">
+        <div className = "card2">
         <div className = "meta"><Ff6meta></Ff6meta></div>
         <div className = "meta"><Ff6titolo></Ff6titolo></div>
         <hr></hr>

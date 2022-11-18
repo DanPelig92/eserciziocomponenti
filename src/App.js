@@ -5,9 +5,9 @@ import Ff4 from "./Final Fantasy/Ff4";
 import Ff5 from "./Final Fantasy/Ff5";
 import Ff6 from "./Final Fantasy/Ff6";
 import Ff7 from "./Final Fantasy/Ff7";
-// import Ff8 from "./Ff8";
-// import Ff9 from "./Ff9";
-// import Ff10 from "./Ff10";
+import Ff8 from "./Final Fantasy/Ff8";
+import Ff9 from "./Final Fantasy/Ff9";
+import Ff10 from "./Final Fantasy/Ff10";
 
 function App() {
   return (
@@ -19,12 +19,12 @@ function App() {
       <Ff4></Ff4>
       <Ff5></Ff5>
       </div>
-      <div>
+      <div className="piccoloDiv">
        <Ff6></Ff6>
       <Ff7></Ff7>
-      <Ff1></Ff1>
-      <Ff1></Ff1>
-      <Ff1></Ff1>
+      <Ff8></Ff8>
+      <Ff9></Ff9>
+      <Ff10></Ff10>
     </div>
     </div>
   );
