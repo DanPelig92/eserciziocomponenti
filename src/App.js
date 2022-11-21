@@ -1,4 +1,4 @@
-import Ff1 from "./Final Fantasy/FF1/Ff1";
+import Ff1 from "./Final Fantasy/Ff1";
 import Ff2 from "./Final Fantasy/FF2/Ff2";
 import Ff3 from "./Final Fantasy/FF3/Ff3";
 import Ff4 from "./Final Fantasy/FF4/Ff4";

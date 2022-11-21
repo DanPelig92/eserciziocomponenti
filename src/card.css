@@ -42,7 +42,8 @@
   }
 
   .meta {
-    font-size: 90%
+    font-size: 90%;
+    margin-top: 5px;
   }
 
 .titolo{
